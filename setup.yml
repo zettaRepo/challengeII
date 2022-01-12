@@ -1,0 +1,1 @@
+ansible-playbook -i ./hosts.yml -u <your SSH username> --ask-vault-pass setup.yml --ask-become-pass
